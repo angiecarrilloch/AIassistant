@@ -3,7 +3,7 @@ This project performs the process of Identity Verification
 
 # Getting Started
 Before getting started you should know that this project runs ONLY on Tensorflow2 and Python3.7
-Clone the repository in your local machine. you can see an example on how to use it in the script NLP/AI.py
+Clone the repository in your local machine. you can see an example on how to use it in the script NLP/src/AI.py
 
 # Build
 ## Create virtual environment

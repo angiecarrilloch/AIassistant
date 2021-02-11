@@ -1,0 +1,7 @@
+{
+    "face_cascade": {
+        "scaleFactor": 1.1,
+        "minNeighbots": 5,
+        "minSize": 30
+    }
+}
